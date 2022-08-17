@@ -19,7 +19,7 @@
           ></el-input> -->
         </el-row>
         <el-table
-          :data="groupListDataFilter"
+          :data="groupListData"
           stripe
           height="40vh"
           highlight-current-row
